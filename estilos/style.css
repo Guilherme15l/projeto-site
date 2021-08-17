@@ -3,16 +3,17 @@
     font-size: 16px;
 }
 h1,h2{
-    color: #750875;
+    color: #bd14bd;
     font-size: 16px;
 }
 
 body {
-    background-image: url(../imagens/curso-em-video-cor.png);
-    rgb(184, 146, 245)
+    background-image: url(../imagens/Imagem\ Naruto.jpg);
+    rgb(184, 146, 245);
 }
 main {
-    background: white;
+    background: rgb(15, 9, 9);
+    color: rgba(255, 255, 255, 0.712);
     width: 500px;
     margin: auto;
     padding: 10px;
@@ -24,7 +25,8 @@ img.lado {
 }
 article.corpo {
 
-    background: white;
+    background: rgb(15, 9, 9);
+    color: rgba(255, 255, 255, 0.712);
     font: 15px Arial rgb(0, 0, 0);
     width: 520px;
     height: 470px;
@@ -34,7 +36,7 @@ article.corpo {
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.698);
 }
 a {
-    color: rgba(15, 33, 199, 0.966);
+    color: rgba(60, 79, 250, 0.966);
     
 }
 
