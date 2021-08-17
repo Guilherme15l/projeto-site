@@ -8,8 +8,8 @@ h1,h2{
 }
 
 body {
-    background: rgb(184, 146, 245);
-    
+    background-image: url(../imagens/curso-em-video-cor.png);
+    rgb(184, 146, 245)
 }
 main {
     background: white;
