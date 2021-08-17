@@ -1,0 +1,40 @@
+* { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+h1,h2{
+    color: #750875;
+    font-size: 16px;
+}
+
+body {
+    background: rgb(184, 146, 245);
+    
+}
+main {
+    background: white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px black;
+    border-radius: 5px 5px 5px 5px;
+}
+img.lado {
+    float: right;
+}
+article.corpo {
+
+    background: white;
+    font: 15px Arial rgb(0, 0, 0);
+    width: 520px;
+    height: 470px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.698);
+}
+a {
+    color: rgba(15, 33, 199, 0.966);
+    
+}
+
