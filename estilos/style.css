@@ -1,42 +1,44 @@
 * { 
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+    color: #F7EFFB;
 }
 h1,h2{
-    color: #bd14bd;
+    color: #C6267B;
     font-size: 16px;
 }
 
 body {
-    background-image: url(../imagens/Imagem\ Naruto.jpg);
-    rgb(184, 146, 245);
+    background-color: #5EC5D4;
 }
 main {
-    background: rgb(15, 9, 9);
-    color: rgba(255, 255, 255, 0.712);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px black;
-    border-radius: 5px 5px 5px 5px;
+    background: rgba( 1, 2, 2, 0.7 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 1px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 img.lado {
     float: right;
 }
 article.corpo {
-
-    background: rgb(15, 9, 9);
-    color: rgba(255, 255, 255, 0.712);
-    font: 15px Arial rgb(0, 0, 0);
     width: 520px;
     height: 470px;
     margin: auto;
     padding: 10px;
-    border-radius: 5px 5px 5px 5px;
-    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.698);
+    background: rgba( 1, 2, 2, 0.7 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 1px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 a {
-    color: rgba(60, 79, 250, 0.966);
+    color: #51DBFF;
     
 }
 
