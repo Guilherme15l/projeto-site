@@ -1,9 +1,11 @@
-* { 
+* {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     color: #F7EFFB;
 }
-h1,h2{
+
+h1,
+h2 {
     color: #C6267B;
     font-size: 16px;
 }
@@ -11,34 +13,36 @@ h1,h2{
 body {
     background-color: #5EC5D4;
 }
+
 main {
     width: 500px;
     margin: auto;
     padding: 10px;
-    background: rgba( 1, 2, 2, 0.7 );
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-    backdrop-filter: blur( 1px );
-    -webkit-backdrop-filter: blur( 1px );
+    background: rgba( 1, 2, 2, 0.7);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37);
+    backdrop-filter: blur( 1px);
+    -webkit-backdrop-filter: blur( 1px);
     border-radius: 10px;
-    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    border: 1px solid rgba( 255, 255, 255, 0.18);
 }
+
 img.lado {
     float: right;
 }
+
 article.corpo {
     width: 520px;
     height: 470px;
     margin: auto;
     padding: 10px;
-    background: rgba( 1, 2, 2, 0.7 );
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-    backdrop-filter: blur( 1px );
-    -webkit-backdrop-filter: blur( 1px );
+    background: rgba( 1, 2, 2, 0.7);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37);
+    backdrop-filter: blur( 1px);
+    -webkit-backdrop-filter: blur( 1px);
     border-radius: 10px;
-    border: 1px solid rgba( 255, 255, 255, 0.18 );
-}
-a {
-    color: #51DBFF;
-    
+    border: 1px solid rgba( 255, 255, 255, 0.18);
 }
 
+a {
+    color: #51DBFF;
+}
